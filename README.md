@@ -1,3 +1,4 @@
 # Calculatorinator
-Simplistic Calclulator
-Alluring desing
+# Simplistic Calclulator
+# Alluring design
+# JAVA
